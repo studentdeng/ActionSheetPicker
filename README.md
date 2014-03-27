@@ -1,3 +1,5 @@
+#only support >= 7.0
+
 # ActionSheetPicker = UIPickerView + UIActionSheet #
 
 Well, that's how it started. Now, the following is more accurate: 
